@@ -1,0 +1,4 @@
+notatki
+=======
+
+technologie internetowe
