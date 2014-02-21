@@ -1,5 +1,10 @@
 ## pierwsze programy
 
+#witam
+#witam
+#witam
+
+
 zaczynamy od prostego programu
 *HELLO WORLD*:
 
