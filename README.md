@@ -7,6 +7,8 @@
 ######witam
 
 
+![](http://octodex.github.com/images/yaktocat.png)
+
 *You **can** combine them*
 
 * Item 1
