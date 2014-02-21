@@ -1,7 +1,7 @@
 ## pierwsze programy
 
 zaczynamy od prostego programu
-*HELLO WORLD*
+*HELLO WORLD*:
 
 notatki
 =======
