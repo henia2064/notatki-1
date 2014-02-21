@@ -6,6 +6,16 @@
 #####witam
 ######witam
 
+
+*You **can** combine them*
+
+
+
+
+
+
+
+
 zaczynamy od prostego programu
 *HELLO WORLD*:
 
