@@ -1,4 +1,4 @@
-## pierwsze programy
+## pierwsze programy ---  --- - - - - - - -- -
 
 ##witam
 ###witam
