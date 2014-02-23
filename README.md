@@ -6,8 +6,8 @@
 #####witam
 ######witam
 
-http://github.com - automatic!
-[link](https://github.com/pawelr/notatki/blob/master/README.md)
+
+[technologie](https://github.com/pawelr/notatki/blob/master/README.md)
 
 
 
