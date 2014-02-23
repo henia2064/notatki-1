@@ -6,6 +6,12 @@
 #####witam
 ######witam
 
+http://github.com - automatic!
+[link](https://github.com/pawelr/notatki/blob/master/README.md)
+
+
+
+
 
 ![](http://octodex.github.com/images/yaktocat.png)
 
